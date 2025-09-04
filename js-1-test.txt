@@ -1,0 +1,94 @@
+{java : 1st test}
+1.What’s the purpose of using JavaScript in websites?
+2.What is the difference between putting <script> before <body> and after?
+3.Why most of programmers didn’t use Do-While loop?
+4.In one symbol, how can we access an Array and Object?
+5.Which statement type shall we use while we need to get access to all data in Array faster? 
+6.in one word, how can we get execute the function?
+7.In one word, we can handle functions through HTML tag by using ….. ? 
+8.What is the difference between indexOf() and includes() ?
+9.What is the difference between slice() and splice() ?
+10.what is the variables data types? 
+11.What is the difference between Null and Undefined? 
+12.What is the rules for writing variable names ? 
+13.var x = 5;
+var x = `Hesham`;
+++ x; 
+Var x = 25;
+console.log(x) 
+What is the output in Console?
+14.How can we print `hesham` as string value if we had var myName = `hes195ham`, just mention the methods names only .
+15.If you have the bellow, what will be the output?
+var x = “5”;
+++x  ;
+console.log(x)?
+16.If you have the bellow, what will be the output?
+var arr = [1,2, [1,2,3,"hesham"],3,4]
+arr. forEach((e)= > {
+ console.log (e. length);
+})
+17.If you have the bellow, what will be the output?
+var obj = {
+   age: 25,
+   myName: "hesham"
+}
+obj.forEach( (e)=>{
+  console.log(e);
+})
+18.var arr = [1,2,3]
+for (var i =1; i < arr. length-1; i++) {
+	console.log(arr[i])
+}
+What is the output in Console?
+
+19.function changeColor() {
+document.querySelector(`body`).style.backgroundColor = ‘black’ ;
+}
+What is the output?
+20.What will be the output for the bellow :
+function displayResult(arr){
+arr.forEach((e)=>{
+		console.log(e)
+})
+}
+displayResult(`array`). 
+21.function runFunc() {
+ console.log("1" + 1);
+console.log("A" - 1);
+console.log(2 + "-2" + "2");
+console.log("Hello" - "World" + 78);
+console.log("Hello" + "78");
+}
+runFunc();
+What will be the output ?
+23-What will be the output in console for ,             
+var arr = ["hesham", "ahmed", "mohamed"];
+arr.forEach((x, y, z) => {
+  var result = z.push("ali");
+  console.log(result);
+});
+22- What will be the output for , 
+var arr = ["hesham", "ahmed", "mohamed"];
+var result = arr.slice(0);
+var result = arr.pop();
+var result = arr.push("hessen");
+console.log(result);
+23-what will be the output for ,
+var str = "hesham will learn";
+str.split(" ");
+var result = str + " " + "java";
+console.log(result);
+24-What is the output in for the bellow ,noted that 0 is a zero number ;
+-  0 === 1   
+-  0 == false   
+-  0 == null
+-  0 === ``
+-  0 == ``
+-  false == null
+-  0 >= null
+-  5 === 5 
+Thanks …
+
+
+
+
