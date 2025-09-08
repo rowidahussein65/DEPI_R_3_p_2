@@ -1,0 +1,11 @@
+.clock {
+  background: black;
+  border: #fff 2px solid;
+  color: red;
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 5px 15px;
+  border-radius: 25px;
+  display: inline-block;
+  margin-top: 10px;
+}
